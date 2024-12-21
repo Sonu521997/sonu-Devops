@@ -2,3 +2,4 @@ Devops master classes 2024
 Aws master classes 2024
 AWS and Devops master course combo
 Devops class is good and very important 
+AWS class is important for cloud engineers
